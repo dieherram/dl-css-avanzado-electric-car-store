@@ -1,6 +1,6 @@
 # Desafío 3 - Electric Car Store
 
-## ¡Hola a todos! 👋
+## ¡Hola! 👋
 
 En este desafío, he trabajado en el diseño de una página web para una tienda a la cual llamé Pop Toys. Utilicé media queries y breakpoints para crear dos layouts diferentes: uno para dispositivos móviles y otro para escritorio.
 
