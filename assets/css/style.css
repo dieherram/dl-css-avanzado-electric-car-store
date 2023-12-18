@@ -71,7 +71,6 @@ header {
     display: flex;
     justify-content: center;
     align-items: center;
-    border-bottom: 4px dashed #ffffa1;
 }
 
 .search-container {
@@ -257,7 +256,6 @@ footer {
         flex-direction: column;
         justify-content: flex-start;
         row-gap: 2em;
-        border-right: 4px dashed #ffffa1;
     }
 
     .brand-container {
@@ -301,11 +299,6 @@ footer {
         display: grid;
         grid-template-columns: 1fr 1fr;
         gap: 1em;
-    }
-
-    /* Footer */
-    footer {
-        border-right: 4px dashed #ffffa1;
     }
 }
 

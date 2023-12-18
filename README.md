@@ -12,7 +12,11 @@ Diseñé la página web con dos layouts distintos: uno para dispositivos móvile
 
 ¡Aquí está el resultado final de mi proyecto!
 
+### Escritorio 💻
 ![Captura de pantalla](./Screenshot.png)
+
+### Móvil 📱
+![Captura de pantalla](./Screenshot-mobile.png)
 
 ### Observaciones y Recomendaciones 🧐
 
